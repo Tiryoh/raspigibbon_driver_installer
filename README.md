@@ -8,6 +8,7 @@ raspigibbon device driver installer
   * tested only on Raspberry Pi 3
 * Ubuntu Xenial 16.04
   * Ubuntu (4.4.0-1009-raspi2)
+  * Ubuntu (4.4.0-1051-raspi2)
   * Ubuntu MATE (4.1.19-v7+)
 
 ## Installation
