@@ -10,6 +10,7 @@ raspigibbon device driver installer
   * Ubuntu (4.4.0-1009-raspi2)
   * Ubuntu (4.4.0-1051-raspi2)
   * Ubuntu MATE (4.1.19-v7+)
+  * Ubuntu MATE (4.4.38-v7+)
 
 ## Installation
 
